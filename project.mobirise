@@ -1,23 +1,24 @@
 {
   "settings": {
-    "name": "Site-11-10_1447",
+    "name": "Site-11-13_1558",
     "currentPage": "index.html",
     "theme": {
-      "name": "directm",
-      "title": "DirectM",
+      "name": "mobirise3",
+      "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#5aac98",
-        "secondaryColor": "#A25DAE",
-        "successColor": "#1E7C3A",
-        "infoColor": "#74a3c7",
-        "warningColor": "#FFD785",
-        "dangerColor": "#FF9685",
-        "titleFont": "Oxygen",
-        "subtitleFont": "Libre Franklin",
-        "textFont": "Libre Franklin",
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "4.4.1",
@@ -36,99 +37,33 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "contentAlign": "left",
             "showArrow": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#631c70",
-            "containerColor2": "#3ca8c7",
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#616161",
-            "overlayOpacity": 0.8
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "title": "Gradient Header",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "mobirise",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title1": "What is Mobirise",
-          "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "What is Mobirise",
-          "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "What is Mobirise",
-          "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-0"
+          "_name": "header1",
+          "_anchor": "header1-0"
         },
         {
           "_params": {
@@ -153,7 +88,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
