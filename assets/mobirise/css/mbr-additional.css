@@ -1372,6 +1372,33 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qI6Jhe80UI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qI6Jhe80UI .title {
+  margin-bottom: 2rem;
+}
+.cid-qI6Jhe80UI .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qI6Jhe80UI a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qI6Jhe80UI a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qI6Jhe80UI .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qI6Jhe80UI .input-group-btn {
+  display: block;
+  text-align: center;
+}
 .cid-qI6D9tR7cG {
   padding-top: 90px;
   padding-bottom: 90px;
